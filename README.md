@@ -39,6 +39,8 @@ This project presents an **Exploratory Data Analysis (EDA)** and interactive **E
 - `burgerfry.xlsx` → Raw dataset & dashboard
 - `Burger_Fry_EDA_Report.docx` → Detailed EDA report
 - Dashboard screenshots
+- <img width="1366" height="768" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/a64d9a34-a356-4eed-b02c-d3a2723b8b8d" />
+
 
 ---
 
